@@ -1,0 +1,42 @@
+#logo{
+    background-color: white;
+    display: inline-block;
+}
+#fon1{
+    background-color: #E3C7C7;
+}
+#fon2{
+    background-color: #EAE1E1;
+}
+#fon3{
+    background-color: #AD7777;
+}
+#color1{
+    color: #FD8888;
+}
+#color2{
+    color: #B65757;
+}
+.block{
+    display: inline-block;
+}
+.border{
+    border: none;
+    background-color: white;
+}
+#color3{
+    background-color: #E7A2A2;
+    color: #B65757;
+}
+.razmer{
+    height: 100%;
+}
+#color4{
+    color: #CB9797;
+}
+#color5{
+    background-color: #AD7777;
+}
+.ftext{
+    color: #CCB2B2;
+}
